@@ -17,9 +17,9 @@ class Frame {
   }
 }
 
-class Cube {
+class regularOctahedron {
   float scale;
-  Cube(float a) {
+  regularOctahedron(float a) {
     scale = a;
   }
   void draw() {
@@ -91,7 +91,7 @@ void setup() {
 
 int saveFlag = 0; // 1 -> SAVEON, 0 -> SAVEOFF
 Frame frame = new Frame();
-Cube c = new Cube(170.0);
+regularOctahedron c = new regularOctahedron(170.0);
 
 void draw() {
   background(0);
