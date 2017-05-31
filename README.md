@@ -9,4 +9,4 @@ If you want to record the animation, please change the save_flag to 1(default : 
 
 JPG images will be recorded in ./images. Please concat them with tools. 
 
-![output_sample_gif](https://github.com/cashiwamochi/processingPolyhedron/readme/dodecahedron.gif)
+![output_sample_gif](https://github.com/cashiwamochi/processingPolyhedron/blob/master/readme/dodecahedron.gif)
