@@ -1,5 +1,5 @@
 # processingPolyhedron
-Scripts of Processing3 which show the rotation of a Polyhedron.
+Scripts of Processing3 which show rotation of Polyhedron.
 
 Of course , you should get Processing3 from https://processing.org/download/
 
